@@ -3,23 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-khan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahad-khan" alt="rahad-khan" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+### 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **NextJS**
+### 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+### 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Technology**
+### 🤝 I’m looking for help with **Technology**
 
-- 👨‍💻 All of my projects are available at [https://rahadkhan-portfolio.netlify.app/](https://rahadkhan-portfolio.netlify.app/)
+### 👨‍💻 All of my projects are available at [https://rahadkhan-portfolio.netlify.app/](https://rahadkhan-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN Tech**
+### 💬 Ask me about **MERN Tech**
 
-- 📫 How to reach me **kmrahad12@gmail.com**
+### 📫 How to reach me **kmrahad12@gmail.com**
 
-- ⚡ Fun fact **Love to teach other**
+### ⚡ Fun fact  **Love to teach other**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
